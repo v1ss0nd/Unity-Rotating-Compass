@@ -15,3 +15,6 @@ A pretty simple on-screen rotating compass, with text degreeses
 And if everything is ok, youll get something like this
 
 ![Alt text](https://i.imgur.com/3lmYVLu.jpg)
+
+
+*You can use it in every way, everywhere, with and without credits, in closed and open source projects, I don't mind, just do things that you like to do.*
